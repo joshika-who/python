@@ -1,0 +1,15 @@
+print(type(25))
+print(type(25.5))
+print(type('25'))
+age=21
+height=5.8
+name='arun' 
+age=20
+price=99.5
+name='ravi'
+marks=90
+print(type(marks))
+temp=36.5
+print(type(temp))
+message='name'
+print(type(name))
